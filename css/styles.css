@@ -1,0 +1,68 @@
+body {
+  background-color: black;
+  color: #fff;
+  text-align: center;
+}
+
+.s-logo {
+  padding: 3% 3% 0 3%;
+}
+
+.tbl {
+  padding: 3%;
+}
+
+.t-h-s {
+  font-size: 1.1rem;
+}
+
+.s-h1-w {
+  padding: 0 3%;
+}
+
+h1 {
+  font-weight: bolder;
+  font-size: 3rem;
+  color: #ff9999;
+}
+
+footer {
+  background-color: #212529;
+}
+
+.sfb {
+  height: 12rem;
+  position: relative;
+}
+
+.sdb {
+  padding: 1.5%;
+}
+
+.sff {
+  /* display: inline-block; */
+}
+
+.sbb {
+  margin-bottom:
+}
+
+.spp {
+
+}
+
+/* button */
+
+.st {
+  display: inline-block;
+}
+
+.s-w {
+  display: inline-block;
+}
+
+.bbb {
+  display: inline-block;
+
+  margin: auto auto 1.3rem auto;
+}
